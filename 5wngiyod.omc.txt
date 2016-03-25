@@ -1,0 +1,188 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch gh-pages
+# Your branch is up-to-date with 'origin/gh-pages'.
+#
+# Changes to be committed:
+#	deleted:    gh-pages/.gitignore
+#	deleted:    gh-pages/404.html
+#	deleted:    gh-pages/CNAME
+#	deleted:    gh-pages/Gruntfile.js
+#	deleted:    gh-pages/LICENSE
+#	deleted:    gh-pages/README.md
+#	deleted:    gh-pages/README.zh.md
+#	deleted:    gh-pages/_config.yml
+#	deleted:    gh-pages/_includes/footer.html
+#	deleted:    gh-pages/_includes/head.html
+#	deleted:    gh-pages/_includes/nav.html
+#	deleted:    gh-pages/_layouts/default.html
+#	deleted:    gh-pages/_layouts/keynote.html
+#	deleted:    gh-pages/_layouts/page.html
+#	deleted:    gh-pages/_layouts/post.html
+#	deleted:    gh-pages/_posts/2014-01-29-hello-2015.markdown
+#	deleted:    gh-pages/_posts/2014-08-16-miui6.markdown
+#	deleted:    gh-pages/_posts/2014-09-04-is-pure-android-better.markdown
+#	deleted:    gh-pages/_posts/2014-10-01-why-alibaba-ux-sucks.markdown
+#	deleted:    gh-pages/_posts/2014-11-20-responsive-web-design.markdown
+#	deleted:    gh-pages/_posts/2014-12-13-wechat-block-kuaidi.markdown
+#	deleted:    gh-pages/_posts/2015-03-10-apple-event-2015.markdown
+#	deleted:    gh-pages/_posts/2015-03-25-digital-native.markdown
+#	deleted:    gh-pages/_posts/2015-03-31-e2e_user_scenarios.markdown
+#	deleted:    gh-pages/_posts/2015-04-14-unix-linux-note.markdown
+#	deleted:    gh-pages/_posts/2015-04-15-os-metro.markdown
+#	deleted:    gh-pages/_posts/2015-05-11-see-u-ali.markdown
+#	deleted:    gh-pages/_posts/2015-05-25-js-module-loader.markdown
+#	deleted:    gh-pages/_posts/2015-06-15-alitrip-strategy.markdown
+#	deleted:    gh-pages/_posts/2015-07-09-js-module-7day.markdown
+#	deleted:    gh-pages/_posts/2015-09-22-js-version.markdown
+#	deleted:    gh-pages/_posts/2015-10-28-how-designer-learn-fe.markdown
+#	deleted:    gh-pages/_posts/2015-12-15-ios9-safari-web.markdown
+#	deleted:    gh-pages/_posts/2015-12-28-css-sucks-2015.markdown
+#	deleted:    gh-pages/_posts/2016-02-01-React-vs-Angular2.markdown
+#	deleted:    gh-pages/about.html
+#	deleted:    gh-pages/attach/2015_Hux_SDE_cn.pdf
+#	deleted:    gh-pages/attach/2015_Hux_SDE_en.pdf
+#	deleted:    gh-pages/attach/2015_Hux_UX & PD_cn.pdf
+#	deleted:    gh-pages/attach/2015_Hux_UX & PD_en.pdf
+#	deleted:    gh-pages/attach/2016_Hux_DEV_en.pdf
+#	deleted:    gh-pages/attach/2016_Hux_en_PD.pdf
+#	deleted:    gh-pages/attach/2016_Hux_en_SE.pdf
+#	deleted:    gh-pages/css/bootstrap.css
+#	deleted:    gh-pages/css/bootstrap.min.css
+#	deleted:    gh-pages/css/hux-blog.css
+#	deleted:    gh-pages/css/hux-blog.min.css
+#	deleted:    gh-pages/css/syntax.css
+#	deleted:    gh-pages/feed.xml
+#	deleted:    gh-pages/fonts/glyphicons-halflings-regular.eot
+#	deleted:    gh-pages/fonts/glyphicons-halflings-regular.svg
+#	deleted:    gh-pages/fonts/glyphicons-halflings-regular.ttf
+#	deleted:    gh-pages/fonts/glyphicons-halflings-regular.woff
+#	deleted:    gh-pages/fonts/glyphicons-halflings-regular.woff2
+#	deleted:    gh-pages/img/404-bg.jpg
+#	deleted:    gh-pages/img/about-bg.jpg
+#	deleted:    gh-pages/img/avatar-hux.jpg
+#	deleted:    gh-pages/img/avatar-sea-hux.jpg
+#	deleted:    gh-pages/img/blog-desktop.jpg
+#	deleted:    gh-pages/img/blog-keynote.jpg
+#	deleted:    gh-pages/img/blog-md-navbar.gif
+#	deleted:    gh-pages/img/blog-sidebar.jpg
+#	deleted:    gh-pages/img/contact-bg.jpg
+#	deleted:    gh-pages/img/favicon.ico
+#	deleted:    gh-pages/img/home-bg-art.jpg
+#	deleted:    gh-pages/img/home-bg-geek.jpg
+#	deleted:    gh-pages/img/home-bg-o.jpg
+#	deleted:    gh-pages/img/home-bg.jpg
+#	deleted:    gh-pages/img/icon_wechat.png
+#	deleted:    gh-pages/img/in-post/forcify.jpg
+#	deleted:    gh-pages/img/in-post/open-source-license.png
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.014.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.016.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.018.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.019.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.020.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.021.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.023.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.026.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.028.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.029.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.030.jpg
+#	deleted:    gh-pages/img/in-post/post-alitrip-pd/post-alitrip-pd.031.jpg
+#	deleted:    gh-pages/img/in-post/post-c-u-ali-079717.png
+#	deleted:    gh-pages/img/in-post/post-c-u-ali-memo.jpg
+#	deleted:    gh-pages/img/in-post/post-c-u-ali-team.png
+#	deleted:    gh-pages/img/in-post/post-js-version/javascript-java.jpg
+#	deleted:    gh-pages/img/in-post/post-js-version/keep-calm-and-learn-javascript.png
+#	deleted:    gh-pages/img/in-post/post-kuaidi-1.jpg
+#	deleted:    gh-pages/img/in-post/post-kuaidi-2.jpg
+#	deleted:    gh-pages/img/in-post/post-metro-panorama.jpg
+#	deleted:    gh-pages/img/in-post/post-metro-real.jpg
+#	deleted:    gh-pages/img/in-post/post-metro-ui.jpg
+#	deleted:    gh-pages/img/post-bg-2015.jpg
+#	deleted:    gh-pages/img/post-bg-alibaba.jpg
+#	deleted:    gh-pages/img/post-bg-alitrip.jpg
+#	deleted:    gh-pages/img/post-bg-android.jpg
+#	deleted:    gh-pages/img/post-bg-apple-event-2015.jpg
+#	deleted:    gh-pages/img/post-bg-digital-native.jpg
+#	deleted:    gh-pages/img/post-bg-e2e-ux.jpg
+#	deleted:    gh-pages/img/post-bg-ios9-web.jpg
+#	deleted:    gh-pages/img/post-bg-js-module.jpg
+#	deleted:    gh-pages/img/post-bg-js-version.jpg
+#	deleted:    gh-pages/img/post-bg-kuaidi.jpg
+#	deleted:    gh-pages/img/post-bg-miui-ux.jpg
+#	deleted:    gh-pages/img/post-bg-miui6.jpg
+#	deleted:    gh-pages/img/post-bg-os-metro.jpg
+#	deleted:    gh-pages/img/post-bg-re-vs-ng2.jpg
+#	deleted:    gh-pages/img/post-bg-rwd.jpg
+#	deleted:    gh-pages/img/post-bg-see-u-ali.jpg
+#	deleted:    gh-pages/img/post-bg-universe.jpg
+#	deleted:    gh-pages/img/post-bg-unix-linux.jpg
+#	deleted:    gh-pages/img/post-sample-image.jpg
+#	deleted:    gh-pages/img/tag-bg.jpg
+#	deleted:    gh-pages/index.html
+#	deleted:    gh-pages/js/animatescroll.min.js
+#	deleted:    gh-pages/js/bootstrap.js
+#	deleted:    gh-pages/js/bootstrap.min.js
+#	deleted:    gh-pages/js/hux-blog.js
+#	deleted:    gh-pages/js/hux-blog.min.js
+#	deleted:    gh-pages/js/jquery.js
+#	deleted:    gh-pages/js/jquery.min.js
+#	deleted:    gh-pages/js/jquery.nav.js
+#	deleted:    gh-pages/js/jquery.tagcloud.js
+#	deleted:    gh-pages/less/hux-blog.less
+#	deleted:    gh-pages/less/mixins.less
+#	deleted:    gh-pages/less/side-catalog.less
+#	deleted:    gh-pages/less/sidebar.less
+#	deleted:    gh-pages/less/variables.less
+#	deleted:    gh-pages/package.json
+#	deleted:    gh-pages/portfolio/css/timeline.css
+#	deleted:    gh-pages/portfolio/fonts/huxico.eot
+#	deleted:    gh-pages/portfolio/fonts/huxico.svg
+#	deleted:    gh-pages/portfolio/fonts/huxico.ttf
+#	deleted:    gh-pages/portfolio/fonts/huxico.woff
+#	deleted:    gh-pages/portfolio/images/hux_avatar.png
+#	deleted:    gh-pages/portfolio/images/intern-alitrip.jpg
+#	deleted:    gh-pages/portfolio/images/intern-lxu.jpg
+#	deleted:    gh-pages/portfolio/images/logo-jquery.png
+#	deleted:    gh-pages/portfolio/images/logo-kissy.png
+#	deleted:    gh-pages/portfolio/images/logo-react.png
+#	deleted:    gh-pages/portfolio/images/logo-vue.png
+#	deleted:    gh-pages/portfolio/images/newmedia.jpg
+#	deleted:    gh-pages/portfolio/images/senova.jpg
+#	deleted:    gh-pages/portfolio/images/work-busyweek.jpg
+#	deleted:    gh-pages/portfolio/images/work-hslider.jpg
+#	deleted:    gh-pages/portfolio/images/work-puzzle.png
+#	deleted:    gh-pages/portfolio/images/work-truth.jpg
+#	deleted:    gh-pages/portfolio/images/work-uihome.jpg
+#	deleted:    gh-pages/portfolio/images/work-wepiao-bo.jpg
+#	deleted:    gh-pages/portfolio/index.html
+#	deleted:    gh-pages/portfolio/js/modernizr.custom.js
+#	deleted:    gh-pages/tags.html
+#
+# Untracked files:
+#	.gitignore
+#	404.html
+#	CNAME
+#	Gruntfile.js
+#	LICENSE
+#	README.md
+#	README.zh.md
+#	_config.yml
+#	_includes/
+#	_layouts/
+#	_posts/
+#	about.html
+#	attach/
+#	css/
+#	feed.xml
+#	fonts/
+#	img/
+#	index.html
+#	js/
+#	less/
+#	package.json
+#	portfolio/
+#	tags.html
+#
+
